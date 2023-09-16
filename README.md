@@ -64,3 +64,6 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+# Foundryをインストールする
+$ curl -L https://foundry.paradigm.xyz | bash
+$ foundryup
