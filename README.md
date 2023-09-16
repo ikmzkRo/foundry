@@ -64,7 +64,16 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
-# Foundryをインストールする
+
+# study
+https://docs.google.com/document/d/1RZ4vyMfVYPqQhlba7FQ7n1Qi4ycaHnYHRTlibSsfDoA/edit
+
+## note topic
+- Account Abstraction
+- ゼロ知識証明やRollup
+
+
+## Foundryをインストールする
 ```
 $ curl -L https://foundry.paradigm.xyz | bash
 $ foundryup
