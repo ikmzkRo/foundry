@@ -19,4 +19,11 @@ contract Simple is Ownable {
     public {
         value = _value;
     }
+
+    // 数値→文字列変換する関数。内部プロパティは変更しないので関数修飾子は view
+    // 一時的にメモリ領域に保存する変更可能な値なので変数修飾子は memory 
+    function getValue() public view 
+    returns (string memory) {
+        return value.toString();
+    }
 }
