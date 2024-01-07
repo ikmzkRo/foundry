@@ -1,0 +1,4 @@
+CounterTest:testFuzz_SetNumber(uint256) (runs: 256, μ: 27320, ~: 28409)
+CounterTest:test_Increment() (gas: 28379)
+SimpleTest:testFuzz_SetValue(uint256) (runs: 256, μ: 36002, ~: 34202)
+SimpleTest:test_OnlyOwner(address) (runs: 256, μ: 11382, ~: 11382)
