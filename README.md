@@ -68,3 +68,4 @@ $ cast --help
 # study
 https://docs.google.com/document/d/1RZ4vyMfVYPqQhlba7FQ7n1Qi4ycaHnYHRTlibSsfDoA/edit
 https://github.com/foundry-rs/foundry?tab=readme-ov-file#how-fast
+https://github.com/POKENA7/solidity-playground/tree/master
